@@ -34,3 +34,4 @@ shop.json放public文件夹下
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+# vue-shop-car
